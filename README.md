@@ -11,9 +11,9 @@ composition, roles, and the tasks at hand.
 
 | Role | Named Members |
 |------|---------|
-| Mechanical Engineering | |
+| Mechanical Engineering | Lana Khader, Niyati Patel, Arham Mufti |
 | Electrical Engineering | |
-| Computer Engineering | |
+| Computer Engineering | Darwin Quizhpi, Phillip Omohundro, Ethan Manfredi, Mason Pfeiffer |
 | Biomedical Engineering | |
 
 ---
