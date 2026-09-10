@@ -1,6 +1,6 @@
 # Parts Used in the Project 
- 
- - XIAO-ESP32-S3
+  <p align="center">
+  XIAO-ESP32-S3
  <p align="center">
 <img src="./xiaoesp32.png" width="50%">
 </p>
