@@ -79,3 +79,9 @@ Connections:
 | XIAO GPIO6 | Button 2 |
 | All GND pins | Common ground |
 | Stepper motor shaft | Popsicle stick (clock hand) |
+
+# Wiring schematic 
+
+<p align="center">
+<img src="./SchematicWiring.png" width="100%">
+</p>
