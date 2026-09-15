@@ -1,3 +1,5 @@
+![Flow Chart](flow_chart.jpg)
+
 this folder contains firmware that to flash to the ESP32 S3, in order of development prototyping
 
 1. stepper.py drives the stepper 90 degrees back and forth
