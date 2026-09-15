@@ -1,3 +1,9 @@
+# Wiring schematic 
+
+<p align="center">
+<img src="./SchematicWiring.png" width="100%">
+</p>
+
 # Parts Used in the Project
 
 <p align="center">
@@ -80,8 +86,3 @@ Connections:
 | All GND pins | Common ground |
 | Stepper motor shaft | Popsicle stick (clock hand) |
 
-# Wiring schematic 
-
-<p align="center">
-<img src="./SchematicWiring.png" width="100%">
-</p>
