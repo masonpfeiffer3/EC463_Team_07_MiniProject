@@ -8,7 +8,7 @@
 
 | Role | Named Members |
 |------|---------|
-| Mechanical Engineering | Lana Khader, Niyati Patel, Arham Mufti |
+| Mechanical Engineering | Lana Kader, Niyati Patel, Arham Mufti |
 | Electrical Engineering | |
 | Computer Engineering | Darwin Quizhpi, Phillip Omohundro, Ethan Manfredi, Mason Pfeiffer |
 | Biomedical Engineering | |
