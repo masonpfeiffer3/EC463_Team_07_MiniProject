@@ -38,7 +38,10 @@
 ---
 
 ## Team Responsibilities 
-Any discipline can do any role here -- you make the assigments. 
+Everyone: flashing of led + breadboard wiring
+CE's: code for timer
+ME's: Enclosure + trophy
+
 
 ### Mechanical oriented
 - Design the enclosure 
