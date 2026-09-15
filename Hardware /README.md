@@ -1,59 +1,52 @@
-# Parts Used in the Project 
- <p align="center">
-<img src="./xiaoesp32.png" width="50%">
-</p>
- <p align="center">
-  XIAO-ESP32-S3
+## Hardware
 
---- 
-  <p align="center">
-<img src="./Stepper.png" width="50%">
-</p>
- <p align="center">
-  28BY J-48 Stepper Motor
+This folder contains all hardware-related documentation for the project. It is divided into two main sections: **Electrical** and **Mechanical**.
 
----
-  <p align="center">
-<img src="./l239.png" width="50%">
-</p>
- <p align="center">
-  L293 Driver
+The purpose of this folder is to keep the physical design of the project organized and make it easy to find information about the components, wiring, construction, and mechanical systems used.
 
----
-  <p align="center">
-<img src="./light.png" width="50%">
-</p>
-<p align="center">
-  RGB 4 pin light
+## Electrical
 
----
-  <p align="center">
-<img src="./button.png" width="50%">
-</p> 
-<p align="center">
-  2 buttons
+The [electrical](./Electrical%20/) folder contains documentation related to the electronic components and electrical connections used in the project.
 
-# How These Parts Were Used
+This includes things such as:
 
-How These Parts Were Used
+* Microcontrollers
+* Motors and motor drivers
+* LEDs and other indicators
+* Buttons and other input devices
+* Sensors
+* Wiring and pin connections
+* Circuit diagrams and schematics
+* Power requirements
 
-The XIAO ESP32-S3 microcontroller runs the MicroPython code that controls the whole device. It drives a stepper motor (through an L293D H-bridge driver, since the motor needs more power than the microcontroller can supply directly) to rotate a clock hand showing time remaining, lights three PWM-driven LEDs for status feedback, and reads two buttons for user input.
+The README inside the electrical folder provides more detailed information about the electrical components used and how they are connected.
 
-Connections:
+## Mechanical
 
-| Component | Connected To |
-|---|---|
-| XIAO GPIO1–4 | L293D inputs (1A, 2A, 3A, 4A) |
-| L293D outputs (1Y, 2Y, 3Y, 4Y) | Stepper motor coils (Orange, Pink, Yellow, Blue) |
-| Motor red wire | +5V |
-| L293D Pin 16 (VCC1) | +3.3V (logic power) |
-| L293D Pin 8 (VCC2) | +5V (motor power) |
-| L293D Pins 1 & 9 (EN) | +3.3V (enables motor channels) |
-| L293D Pins 4, 5, 12, 13 | GND |
-| XIAO GPIO7 | Red LED (through 220Ω resistor) |
-| XIAO GPIO8 | Blue LED (through 220Ω resistor) |
-| XIAO GPIO9 | Green LED (through 220Ω resistor) |
-| XIAO GPIO5 | Button 1 |
-| XIAO GPIO6 | Button 2 |
-| All GND pins | Common ground |
-| Stepper motor shaft | Popsicle stick (clock hand) |
+The [mechanical](./Mechanical/) folder contains documentation related to the physical and mechanical design of the project.
+
+This includes things such as:
+
+* Structural components
+* Mounting hardware
+* Motor mounting
+* Moving mechanisms
+* CAD models and drawings
+* Dimensions and measurements
+* Fabricated or 3D-printed parts
+* Mechanical assembly information
+
+The README inside the mechanical folder provides more detailed information about the mechanical design and the parts used to construct the system.
+
+## Folder Structure
+
+```text
+hardware/
+├── README.md
+├── electrical/
+│   └── README.md
+└── mechanical/
+    └── README.md
+```
+
+Each subfolder is organized so that someone viewing the project can quickly understand both the electrical and mechanical sides of the hardware design.
