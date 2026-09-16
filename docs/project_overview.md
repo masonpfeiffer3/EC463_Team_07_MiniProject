@@ -1,7 +1,0 @@
-# Project Overview
-
-## Goal
-
-
-## Deliverables
-

@@ -1,5 +1,21 @@
 # Mechanical Design
 
+<p align="center">
+<img src="../../photos/drawing1a.png" width="50%">
+</p>
+
+<p align="center">
+<strong>Main Box Enclosure Drawing</strong>
+</p>
+
+<p align="center">
+<img src="../../photos/drawing1b.png" width="50%">
+</p>
+
+<p align="center">
+<strong>Top of Box Drawing</strong>
+</p>
+
 The mechanical portion of the project focuses mainly on the design and construction of the enclosure that holds and supports the electrical components.
 
 The enclosure was designed in CAD as a simple box with a removable top. Its purpose is to keep the breadboard and wiring contained while also providing mounting points and openings for the components that need to be accessible from the outside.
@@ -33,23 +49,7 @@ This allows the motion of the motor to be turned into a simple visual display wh
 
 ## CAD Drawings
 
-The CAD drawings in this folder document the dimensions and geometry of the enclosure and its individual parts.
-
-<p align="center">
-<img src="./drawing1a.png" width="50%">
-</p>
-
-<p align="center">
-<strong>Main Box Enclosure Drawing</strong>
-</p>
-
-<p align="center">
-<img src="./drawing1b.png" width="50%">
-</p>
-
-<p align="center">
-<strong>Top of Box Drawing</strong>
-</p>
+The CAD drawings above document the dimensions and geometry of the enclosure and its individual parts.
 
 The design consists mainly of:
 
@@ -61,4 +61,3 @@ The design consists mainly of:
 * Space for the internal breadboard and wiring
 
 These drawings can be used to reproduce or modify the enclosure if changes to the project are needed later.
-
