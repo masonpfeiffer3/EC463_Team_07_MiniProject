@@ -1,5 +1,7 @@
 # 07-Miniproject
+[Demo Link](https://drive.google.com/file/d/174wR8b0HiahtT9Z3u5mZbhheMCSKgrk_/view?usp=sharing)
 [Project Board Link (responsibilities listed here)](https://app.notion.com/p/Mini-Project-Board-3da2b21b7a02809690e9f732688cc1ad?source=copy_link)
+
 ## Repository Structure
 
 ```
