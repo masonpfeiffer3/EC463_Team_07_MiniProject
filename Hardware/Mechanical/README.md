@@ -36,7 +36,7 @@ This allows the motion of the motor to be turned into a simple visual display wh
 The CAD drawings in this folder document the dimensions and geometry of the enclosure and its individual parts.
 
 <p align="center">
-<img src="./drawing1a.png" width="50%">
+<img src="../../photos/drawing1a.png" width="50%">
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ The CAD drawings in this folder document the dimensions and geometry of the encl
 </p>
 
 <p align="center">
-<img src="./drawing1b.png" width="50%">
+<img src="../../photos/drawing1b.png" width="50%">
 </p>
 
 <p align="center">

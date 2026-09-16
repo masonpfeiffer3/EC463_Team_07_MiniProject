@@ -1,13 +1,13 @@
 # Wiring schematic 
 
 <p align="center">
-<img src="./SchematicWiring.png" width="100%">
+<img src="../../photos/SchematicWiring.png" width="100%">
 </p>
 
 # Parts Used in the Project
 
 <p align="center">
-<img src="./xiaoesp32.png" width="50%">
+<img src="../../photos/xiaoesp32.png" width="50%">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ The XIAO ESP32-S3 is the main microcontroller used in the project. It runs the p
 ---
 
 <p align="center">
-<img src="./Stepper.png" width="50%">
+<img src="../../photos/Stepper.png" width="50%">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ The 28BYJ-48 is a small stepper motor that can rotate in precise steps. It is us
 ---
 
 <p align="center">
-<img src="./l239.png" width="50%">
+<img src="../../photos/l239.png" width="50%">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ The L293 is a motor driver used between the ESP32 and the stepper motor. It allo
 ---
 
 <p align="center">
-<img src="./light.png" width="50%">
+<img src="../../photos/light.png" width="50%">
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ The RGB LED contains red, green, and blue LEDs in one package. By controlling ea
 ---
 
 <p align="center">
-<img src="./button.png" width="50%">
+<img src="../../photos/button.png" width="50%">
 </p>
 
 <p align="center">

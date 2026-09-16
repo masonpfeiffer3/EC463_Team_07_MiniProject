@@ -1,4 +1,4 @@
-![Flow Chart](flow_chart.jpg)
+![Flow Chart](../photos/flow_chart.jpg)
 
 this folder contains firmware that to flash to the ESP32 S3, in order of development prototyping
 

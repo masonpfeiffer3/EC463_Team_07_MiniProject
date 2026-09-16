@@ -6,18 +6,24 @@
 .
 ├── docs/                    # Project documentation
 ├── firmware/                # Micro source code
-│   └── connections/         # Wiring reference screenshots
 ├── Hardware/
-│   ├── Electrical/          # Schematics, wiring diagrams, and component images
+│   ├── Electrical/          # Schematics, wiring diagrams, and component docs
 │   └── Mechanical/          # Enclosure CAD/STL files and drawings
+├── photos/                  # All project images (schematics, CAD drawings, product photos, etc.)
 └── README.md
 ```
+
+## Product Photo
+
+<p align="center">
+  <img src="photos/product.png" width="60%" />
+</p>
 
 ## Flow Chart & Electrical Schematic
 
 <p align="center">
-  <img src="firmware/flow_chart.jpg" height="300" />
-  <img src="Hardware/Electrical/SchematicWiring.png" height="300" />
+  <img src="photos/flow_chart.jpg" height="300" />
+  <img src="photos/SchematicWiring.png" height="300" />
 </p>
 
 ## Team
