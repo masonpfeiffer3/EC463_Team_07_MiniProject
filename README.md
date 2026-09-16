@@ -1,6 +1,13 @@
 # 07-Miniproject
 [Demo Link](https://drive.google.com/file/d/174wR8b0HiahtT9Z3u5mZbhheMCSKgrk_/view?usp=sharing)
 
+Note that we changed our state machine to the following for the demo
+| State | LED | Button A | Button B |
+|---|---|---|---|
+| Idle / Time Select | Green (stable) | Time select | Start |
+| Count Down | Green (flashing) | Reset | Pause |
+| Pause | Red/Green (flashing) | Reset | Resume |
+
 [Project Board Link (responsibilities listed here)](https://app.notion.com/p/Mini-Project-Board-3da2b21b7a02809690e9f732688cc1ad?source=copy_link)
 
 ## Repository Structure
